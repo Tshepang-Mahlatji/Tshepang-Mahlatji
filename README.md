@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tshepang-Mahlatji,a matheamtical statistics graduate
+- 👋 Hi, I’m @Tshepang-Mahlatji,a statistics graduate
 - 👀 I’m interested in the intersection of economics,statistcs and machine learning
 - 🌱 I’m currently  expanding my knowledge in advanced statistical methods and diving into the world of machine learning, particularly focusing on classification techniques.
 - 💞️ I’m looking to collaborate on projects that involve the application of statistical methods and machine learning algorithms to solve real-world problems.
